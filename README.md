@@ -2,7 +2,7 @@
 <p align="right"><i>A Student Developer from India working on a great variety of projects sometimes and learning new things.</i></p>
 
 ## 💫 About Me:
-- 🔭 I’m currently working on ... the truth is I keep rotating projects. So I am currently working on [pkderma](https://github.com/HarshNarayanJha/pkderma), and a game in Unity that is under making.
+- 🔭 I’m currently working on ... [@z-term](https://github.com/z-term/zterm)
 - 🌱 I’m currently learning all sorts of things that I possibly can.
 - 👯 I’m looking to collaborate on anything, where I can learn! The first project that I collaborated on was [Chop-Chop](https://github.com/UnityTechnologies/Open-Project-1) ([my fork](https://github.com/HarshNarayanJha/Open-Project-1))
 - 🎮 I like to play Zelda and Pokemon.
