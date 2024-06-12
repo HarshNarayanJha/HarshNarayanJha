@@ -37,6 +37,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HarshNarayanJha&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
 
+### 🐍 Leetcode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/HarshNarayanJha?theme=nord&font=Fira%20Sans&ext=heatmap)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=HarshNarayanJha&icon=2&color=0)](https://visitcount.itsvg.in)
 
