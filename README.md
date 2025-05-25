@@ -183,9 +183,11 @@ Making great things for the rest of us
 
 # 📊 GitHub Stats:
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshNarayanJha&theme=github_dark) 
 ![](https://github-readme-stats.vercel.app/api?username=HarshNarayanJha&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HarshNarayanJha&theme=one_dark_pro&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshNarayanJha&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshNarayanJha&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshNarayanJha&theme=github_dark) 
 
 ## 🏆 GitHub Trophies
 
