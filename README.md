@@ -14,7 +14,10 @@ Making great things for the rest of us
 ---
 
 [![Portfolio](https://img.shields.io/badge/visit-portfolio-black?style=for-the-badge&labelColor=white&color=black)](https://harshnj.is-a.dev)
-[![Linkedin](https://img.shields.io/badge/visit-linkedin-black?style=for-the-badge&labelColor=white&color=black)](https://www.linkedin.com/in/harshnarayanjha)
+[![itch.io](https://img.shields.io/badge/itch-black?style=for-the-badge&logo=itch.io&logoColor=black&labelColor=white&color=black)](https://harshnarayanjha.itch.io)
+[![CodeStats](https://img.shields.io/badge/-codestats-black?style=for-the-badge&labelColor=white&color=black)](https://codestats.net/users/harshnj)
+[![THM](https://img.shields.io/badge/tryhackme-black?style=for-the-badge&logo=tryhackme&logoColor=black&labelColor=white&color=black)](https://tryhackme.com/p/harshnj1103)
+[![LinkedIn](https://img.shields.io/badge/visit-linkedin-black?style=for-the-badge&labelColor=white&color=black)](https://www.linkedin.com/in/harshnarayanjha)
 [![Leetcode](https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=white&color=black)](https://leetcode.com/u/HarshNarayanJha)
 [![Hacker Rank](https://img.shields.io/badge/hackerrank-black?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=white&color=black)](https://www.hackerrank.com/profile/harshnj1103)
 [![Email](https://img.shields.io/badge/e-mail-black?style=for-the-badge&logoColor=black&labelColor=white&color=black)](mailto:me@harshnj.is-a.dev)
@@ -104,7 +107,8 @@ Making great things for the rest of us
 #### GitHub Stats:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshNarayanJha&theme=github_dark)
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=HarshNarayanJha&theme=dark-minimalist&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=HarshNarayanJha&theme=rising-sun&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=17DCEB&sideLabels=38C0EB&dates=DEDEDE&fire=EB6802)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarshNarayanJha&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshNarayanJha&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshNarayanJha&theme=github_dark)
 
